@@ -46,6 +46,10 @@ To add IFrame component:
 > [!NOTE]
 > You can also add [Power Virtual Agent](/power-virtual-agents/fundamentals-what-is-power-virtual-agents) bot to the  IFrame similarly using steps described in [add bot to your web site](/power-virtual-agents/publication-connect-bot-to-web-channels#custom-website).
 
+## Next steps
+
+[Add form](add-form.md)
+
 ### See also
 
 - [Power Apps portals Studio](portal-designer-anatomy.md)
